@@ -40,10 +40,10 @@ module.exports = {
 			content: "\n\nContent:\n─────────────────\n%1\n─────────────────\nReply this message to send message to user",
 			success: "Sent your message to %1 admin successfully!\n%2",
 			failed: "An error occurred while sending your message to %1 admin\n%2\nCheck console for more details",
-			reply: "📍 Reply from admin %1:\n─────────────────\n%2\n─────────────────\nReply this message to continue send message to admin",
+			reply: "📍 𝚁𝙴𝙿𝙾𝙽𝚂𝙴 𝙳𝙴 𝙼𝙾𝙽 𝙰𝙳𝙼𝙸𝙽 %1:\n─────────────────\n%2\n─────────────────\n𝚁𝙴𝙿𝙾𝙽𝙳 𝙰 𝙲𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙿𝙾𝚄𝚁 𝙲𝙾𝙽𝚃𝙸𝙽𝚄𝙴𝚁 𝙻𝙰 𝙳𝙸𝚂𝙲𝚄𝚂𝚂𝙸𝙾𝙽 𝙰𝚅𝙴𝙲 𝙼𝙾𝙽 𝙰𝙳𝙼𝙸𝙽✨🖤",
 			replySuccess: "Sent your reply to admin successfully!",
-			feedback: "📝 Feedback from user %1:\n- User ID: %2%3\n\nContent:\n─────────────────\n%4\n─────────────────\nReply this message to send message to user",
-			replyUserSuccess: "Sent your reply to user successfully!",
+			feedback: "📝 Feedback from user %1:\n- User ID: %2%3\n\nContent:\n─────────────────\n%4\n─────────────────\n𝚅𝙴𝚄𝙸𝙻𝙻𝙴𝚉 𝚂𝚅𝙿 𝚁𝙴𝙿𝙾𝙽𝙳𝚁𝙴 𝙰 𝙲𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴 𝙿𝙾𝚄𝚁 𝙲𝙴𝚃 𝚄𝚃𝙸𝙻𝙸𝚂𝙰𝚃𝙴𝚄𝚁🕊️",
+			replyUserSuccess: "𝙻'𝚄𝚃𝙸𝙻𝙸𝚂𝙰𝚃𝙴𝚄𝚁 𝙰 𝙱𝙸𝙴𝙽 𝚁𝙴𝙲𝚄 𝚅𝙾𝚃𝚁𝙴 𝙼𝙴𝚂𝚂𝙰𝙶𝙴!",
 			noAdmin: "Bot has no admin at the moment"
 		}
 	},
